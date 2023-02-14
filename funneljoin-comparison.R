@@ -1,3 +1,6 @@
+# Examples taken from
+# https://hookedondata.org/posts/2019-07-25_introducing-the-funneljoin-package/
+
 library(tidyverse)
 library(funneljoin)
 
